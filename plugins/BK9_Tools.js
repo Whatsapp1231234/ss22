@@ -30,5 +30,5 @@ let handler = async function (m, { text }) {
 };
 
 handler.command = ['bk9short'];
-handler.tags = ['tools'];
+handler.tags = ['толс'];
 export default handler;
